@@ -41,7 +41,9 @@ header ul li {
 .trator {
     max-width: 200px;
     margin-bottom: 20px;
-    font-display: center;
+    margin-top: 35px;
+    margin-left: 20px;
+    border-radius: 10px;
 }
 
 /* Estilo para a seção principal */
