@@ -110,3 +110,11 @@ section.equipe {
     opacity: 0.7;
     transition: opacity 0.3s ease;
 }
+/* Centralizando a imagem dentro de um container */
+.container {
+    text-align: center;
+}
+
+.container img {
+    display: inline-block;  /* Garante que a imagem seja tratada como inline */
+}
