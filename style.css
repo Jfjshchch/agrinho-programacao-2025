@@ -111,5 +111,5 @@ section.equipe {
 /* Estilo para os links de redes sociais */
 .equipe a:hover img {
     opacity: 0.7;
-    transition: opacity 0.3s ease;
+    transition: opacity 0.1s ease;
 }
